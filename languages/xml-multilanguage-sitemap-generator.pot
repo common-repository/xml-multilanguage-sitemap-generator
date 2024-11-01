@@ -1,0 +1,198 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-07 12:20+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: XML sitemap.php:59
+msgid "</b>."
+msgstr ""
+
+#: includes/functions.options.php:10
+msgid "Choose the name of your sitemap"
+msgstr ""
+
+#: includes/functions.options.php:40
+msgid "Choose what posts type you want to see in your sitemap"
+msgstr ""
+
+#: includes/functions.options.php:49 includes/functions.options.php:75
+msgid "Visible in sitemap"
+msgstr ""
+
+#: includes/functions.options.php:50 includes/functions.options.php:76
+msgid "Post type name"
+msgstr ""
+
+#: includes/functions.options.php:51 includes/functions.options.php:77
+msgid "General Priority"
+msgstr ""
+
+#: includes/functions.options.php:52 includes/functions.options.php:78
+msgid "General Changefreq"
+msgstr ""
+
+#: includes/functions.options.php:68 includes/functions.options.php:95
+#: includes/functions.options.php:228
+msgid "Create the Sitemap"
+msgstr ""
+
+#: includes/functions.options.php:153
+msgid "Hide"
+msgstr ""
+
+#: includes/functions.options.php:154
+msgid "ID"
+msgstr ""
+
+#: includes/functions.options.php:155
+msgid "Title"
+msgstr ""
+
+#: includes/functions.options.php:156
+msgid "Priority"
+msgstr ""
+
+#: includes/functions.options.php:157
+msgid "Changefreq"
+msgstr ""
+
+#: includes/functions.options.php:252
+msgid ""
+"Hi, i'm Marco! Nice to meet you. I've made this plugin for help every site "
+"owner to manage his multilanguage sitemap. I hope it will help you. "
+msgstr ""
+
+#: includes/functions.options.php:253
+msgid ""
+"If yes, please consider leave a vote on WordPress clickin on the stars below "
+"or offer me a coffee clicking on this <a target='_blank' href='https://www."
+"paypal.me/gianemi2'>PayPal link</a>."
+msgstr ""
+
+#: includes/functions.options.php:254
+msgid "I'm proud that you're onboard!"
+msgstr ""
+
+#: includes/functions.options.php:255
+msgid "Vote me on WordPress"
+msgstr ""
+
+#: includes/functions.options.php:256
+msgid "Useful links:"
+msgstr ""
+
+#: includes/functions.options.php:258
+msgid "Support"
+msgstr ""
+
+#: includes/functions.options.php:259
+msgid "Send me a mail (use sparingly)"
+msgstr ""
+
+#: includes/functions.options.php:262
+#, php-format
+msgid "Made with %s in Italy."
+msgstr ""
+
+#: includes/option.php:102
+msgid "Welcome in configuration panel."
+msgstr ""
+
+#: includes/option.php:108
+msgid "General Options"
+msgstr ""
+
+#: includes/option.php:111
+msgid "Post Type Options"
+msgstr ""
+
+#: includes/premium/define-premium.php:62
+msgid "The license Key has been activated. Thank you for your choice!"
+msgstr ""
+
+#: includes/premium/define-premium.php:71
+msgid ""
+"I'm sorry but there's an error with the key. Probably you are trying to "
+"write a wrong key."
+msgstr ""
+
+#: includes/premium/define-premium.php:110
+msgid "The license key has been removed correctly."
+msgstr ""
+
+#: includes/premium/define-premium.php:119
+msgid "The license key on this domain is already inactive."
+msgstr ""
+
+#: includes/premium/define-premium.php:127
+msgid "Become Premium "
+msgstr ""
+
+#: includes/premium/define-premium.php:129
+msgid "Premium user "
+msgstr ""
+
+#: includes/premium/define-premium.php:136
+msgid "Insert your license key"
+msgstr ""
+
+#: includes/premium/define-premium.php:138
+msgid "Activate"
+msgstr ""
+
+#: includes/premium/define-premium.php:140
+msgid "Deactivate"
+msgstr ""
+
+#: includes/premium/delete_xml.php:69
+msgid "Sitemap name"
+msgstr ""
+
+#: includes/premium/delete_xml.php:70
+msgid "Delete sitemap"
+msgstr ""
+
+#: includes/premium/delete_xml.php:84
+msgid "Active sitemap"
+msgstr ""
+
+#: includes/premium/delete_xml.php:100
+msgid "Delete"
+msgstr ""
+
+#. Name of the plugin
+msgid "XML Multilanguage Sitemap Generator"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Create a Google friendly multilanguage sitemap in the root of the website. "
+"Usable also with single language. Google will say HOORAY! | <a href=\"https:"
+"//wordpress.org/plugins/xml-multilanguage-sitemap-generator/#faq\" "
+"target=\"_blank\">FAQ</a> | <a href=\"https://wordpress."
+"org/support/plugin/xml-multilanguage-sitemap-generator\" target=\"_blank\">"
+"Support</a>"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/xml-multilanguage-sitemap-generator"
+msgstr ""
+
+#. Author of the plugin
+msgid "Marco Giannini"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://marcogiannini.net"
+msgstr ""
